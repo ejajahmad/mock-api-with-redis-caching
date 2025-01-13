@@ -21,7 +21,7 @@ Ensure the following are installed on your system:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/ejajahmad/mock-api-with-redis-caching.git>
    cd mock-api-with-caching
    ```
 
